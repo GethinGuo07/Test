@@ -1,2 +1,1 @@
-# Test
-test
+This file includes rules of development.
