@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.airstarbank.mobilebanking</string> <!-- 你的应用程序的 Bundle Identifier -->
+                <string>cn.com.10jqka.Calculate</string> <!-- 你的应用程序的 Bundle Identifier -->
                 <key>bundle-version</key>
-                <string>1.0</string> <!-- 你的应用程序的版本号 -->
+                <string>3.4</string> <!-- 你的应用程序的版本号 -->
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>天星银行</string> <!-- 你的应用程序的名称 -->
+                <string>房贷计算器</string> <!-- 你的应用程序的名称 -->
             </dict>
         </dict>
     </array>
